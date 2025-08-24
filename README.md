@@ -172,4 +172,5 @@ if __name__ == "__main__":
 
 ## Documentation
 
-Explore the full API in the `src/langgraph_rewards/` directory.
+- **Core Concepts**: [Reward Function Design](docs/reward_function_design.md) - How reward functions work without knowing agent actions
+- **API Reference**: Explore the full API in the `src/langgraph_rewards/` directory
